@@ -6,7 +6,7 @@ In this script, I used to Open Weather Api, geocoder google and Html, CSS, Javas
 With this script you can serach a weather for your city or your address. 
 
 <strong>How it's work?</strong>
-First script get lat and long from your address than, script find your locatione, and than from latitude and longitude then We call api to get data from Open Weather Map.
+First script get lat and long from your address than, script find your locatione, and than from latitude and longitude  We call api to get data from Open Weather Map.
 I use this Api https://openweathermap.org/forecast5, to get data for 5 days, every 3hours.
 
 Frist I got 2 function from this link https://developers.google.com/maps/documentation/javascript/geocoding to get latitude and longitude.
